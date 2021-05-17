@@ -114,23 +114,6 @@ connection.close()#fermeture de la base de données
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
