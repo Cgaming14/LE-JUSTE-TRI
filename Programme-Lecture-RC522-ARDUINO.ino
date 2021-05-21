@@ -43,7 +43,7 @@ void loop()
   for (byte i = 0; i < 4; i++) 
   {
     Serial.print(nuidPICC[i], HEX);
-    Serial.print(" ");
+    
   }
   Serial.println();
 
